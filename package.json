@@ -1,0 +1,27 @@
+{
+    "name": "issue-labeler",
+    "version": "1.0.0",
+    "description": "GitHub Action for automatic issue labeling based on description",
+    "main": "labeler.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/dhhruv/ISSUE-LABELER.git"
+    },
+    "keywords": [
+      "github-action",
+      "issue-labeler",
+      "nlp"
+    ],
+    "author": "Dhruv Panchal",
+    "license": "MIT",
+    "dependencies": {
+      "@actions/core": "^1.2.6",
+      "@actions/github": "^4.0.0",
+      "compromise": "^13.11.4",
+      "lodash": "^4.17.21"
+    }
+  }
+  
