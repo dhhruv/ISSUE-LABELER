@@ -57,8 +57,8 @@ During the project, we learned a great deal about GitHub Actions and Codespaces,
 
 ## Team
 
-- [Dhruv Panchal](https://github.com/dhhruv)
-- [Jayati Thakkar](https://github.com/jayatithakkar)
+- **Dhruv Panchal**: [GitHub](https://github.com/dhhruv) | [DEV](https://dev.to/dhhruv)
+- **Jayati Thakkar**: [GitHub](https://github.com/jayatithakkar) | [DEV](https://dev.to/jayatithakkar)
 
 ## Permissive License
 
