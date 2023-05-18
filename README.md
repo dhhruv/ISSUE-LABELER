@@ -1,4 +1,31 @@
-# ISSUE-LABELER
+<p align="center">
+  <img src="https://github.com/dhhruv/ISSUE-LABELER/assets/72680045/9748a7a5-4458-4470-9e58-08a0c33898b1.png">
+  <h2 align="center" style="margin-top: -4px !important;">ISSUE-LABELER: Automated Issue Labeling for GitHub</h2>
+  <p align="center">
+    <a href="https://github.com/dhhruv/ISSUE-LABELER/blob/master/LICENSE">
+      <img src="https://img.shields.io/badge/license-MIT-informational">
+    </a>
+    <a href="https://nodejs.org/">
+    	<img src="https://img.shields.io/badge/Node.js-v14-informational">
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/JavaScript-ES6-green">
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/GitHub%20Actions-CI/CD-blue">
+    </a>
+  </p>
+</p>
+<p align="center">
+	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg">
+</p>
+<p align="center">   
+	<a href="https://dev.to/dhhruv/issue-labeler-1epe">
+    	<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
+    </a>
+</p>
+
+
 
 A project submitted for the GitHub + DEV 2023 Hackathon. This tool assists maintainers by extracting labels from the bodies of GitHub issues.
 
