@@ -14,6 +14,31 @@ You can find Issue Labeler [here](https://github.com/dhhruv/ISSUE-LABELER)
 
 This tool is an aid for open-source maintainers. It is designed to automatically extract labels from GitHub issue descriptions and add them to the issue. This means maintainers do not have to manually label issues, reducing their workload and ensuring that issues are labeled accurately and consistently.
 
+## Screenshots
+
+These screenshots demonstrate the Issue Labeler in action on five different issues. Once each issue is created, the GitHub Actions workflow triggers and the tool starts its work.
+
+1. **First Issue:**
+
+    ![First issue labels](https://github.com/dhhruv/ISSUE-LABELER/blob/master/.images/issue-1.png)
+
+2. **Second Issue:**
+
+    ![Second issue labels](https://github.com/dhhruv/ISSUE-LABELER/blob/master/.images/issue-2.png)
+
+3. **Third Issue:**
+
+    ![Third issue labels](https://github.com/dhhruv/ISSUE-LABELER/blob/master/.images/issue-3.png)
+
+4. **Fourth Issue:**
+
+    ![Fourth issue labels](https://github.com/dhhruv/ISSUE-LABELER/blob/master/.images/issue-4.png)
+
+5. **Fifth Issue:**
+
+    ![Fifth issue labels](https://github.com/dhhruv/ISSUE-LABELER/blob/master/.images/issue-5.png)
+
+
 ## Link to Source Code
 
 You can see how we built Issue Labeler by checking out the [source code](https://github.com/dhhruv/ISSUE-LABELER)
