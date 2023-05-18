@@ -1,0 +1,25 @@
+name: Issue Labeler
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  label:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Node
+      uses: actions/setup-node@v2
+      with:
+        node-version: 16
+    - name: Install Dependencies
+      run: |
+        npm install
+        npm install compromise lodash
+    - name: Run labeler
+      run: node .github/scripts/labeler.js
+      env:
+        repo-token: ${{ secrets.PAT_ISSUE_LABELER }}  # use the name of your secret here
